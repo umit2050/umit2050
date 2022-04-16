@@ -3,6 +3,7 @@
 <p>
 <img src="https://img.shields.io/badge/-HTML-red" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS">
+<img src="https://img.shields.io/badge/-Javascript-yellow" alt="JavaScript">
 <img src="https://img.shields.io/badge/-Bootstrap-blueviolet" alt="Bootstrap">
 </p>
 
