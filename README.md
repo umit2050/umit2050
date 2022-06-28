@@ -2,8 +2,9 @@
 I am a **frontend developer** and have also cross-experiences due to varied roles in projects for years.
 
 ![](https://img.shields.io/badge/-HTML-red "HTML")
-![](https://img.shields.io/badge/-CSS-blue" "CSS")
-![](https://img.shields.io/badge/-Javascript-yellow "JavaScript")
+![](https://img.shields.io/badge/-CSS-blue "CSS")
+![](https://img.shields.io/badge/-Sass/SCSS-white?color=cc6699 "Sass/SCSS")
+![](https://img.shields.io/badge/-Javascript-yellow?color=F7DF1E "JavaScript")
 ![](https://img.shields.io/badge/-Bootstrap-blueviolet "Bootstrap")
 
 - 💻 My frontend CV [umit2050.github.io](https://umit2050.github.io/)
