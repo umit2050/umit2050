@@ -12,5 +12,5 @@ I am a **frontend developer** and have also cross-experiences due to varied role
 - 🐦 I also tweets on [twitter.com/umit2050](https://www.twitter.com/umit2050)
 - 📬 Reach me via [email](mailto:bilimorg@gmail.com)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=umit2050&show_icons=true&locale=en "umit2050")
+![](https://github-readme-stats.vercel.app/api/top-langs?username=umit2050&show_icons=true "umit2050")
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umit2050&show_icons=true&theme=default)
