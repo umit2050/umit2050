@@ -13,4 +13,4 @@ I am a **frontend developer** and have also cross-experiences due to varied role
 - 📬 Reach me via [email](mailto:bilimorg@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umit2050&show_icons=true&theme=default)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=umit2050&show_icons=true&locale=en&layout=compact "umit2050")
+![](https://github-readme-stats.vercel.app/api/top-langs?username=umit2050&show_icons=true&locale=en "umit2050")
