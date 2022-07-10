@@ -6,6 +6,7 @@ I am a **frontend developer** and have also **cross-experiences** due to varied 
 ![](https://img.shields.io/badge/-CSS-blue "CSS")
 ![](https://img.shields.io/badge/-Sass/SCSS-white?color=cc6699 "Sass/SCSS")
 ![](https://img.shields.io/badge/-Javascript-yellow?color=F7DF1E "JavaScript")
+![](https://img.shields.io/badge/-jQuery-yellow?color=0769ad "jQuery")
 ![](https://img.shields.io/badge/-Bootstrap-blueviolet "Bootstrap")
 
 ## 😉 Contact me
