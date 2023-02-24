@@ -9,6 +9,7 @@ I am a **frontend developer** and have also **cross-experiences** due to varied 
 ![](https://img.shields.io/badge/-jQuery-yellow?color=0769ad "jQuery")
 ![](https://img.shields.io/badge/-Bootstrap-blueviolet "Bootstrap")
 ![](https://img.shields.io/badge/-Bulma-cyan?color=00D1B2 "Bulma")
+![](https://img.shields.io/badge/-Figma-red "Figma")
 
 ## 😉 Contact me
 - 📄 Check my [frontend cv page](https://umit2050.github.io/)
